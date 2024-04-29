@@ -1,0 +1,5 @@
+{
+  "name": "@kt3k/foo0",
+  "version": "0.1.0",
+  "exports": "./main.ts"
+}
